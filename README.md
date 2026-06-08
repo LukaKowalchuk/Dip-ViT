@@ -82,7 +82,6 @@ streamlit run streamlit_dipvit.py
 **Files**
 
 The full database and all other files needed to run the script can be found and from HuggingFace:
-
 https://huggingface.co/LukaKow/DipViT
 
 **Contact**
