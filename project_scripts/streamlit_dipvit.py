@@ -21,7 +21,7 @@ import matplotlib.cm as cm
 # ============================================================
 # PATHS
 # ============================================================
-BASE_DIR = Path("C:/Users/lukak/Downloads/Entomology app/KowalchukLuka_research_project-main/app_files")
+BASE_DIR = Path("set to directory/app_files")
 
 LOGO_UVA_PATH = BASE_DIR / "uvalogo_regular_p_en.jpg"
 LOGO_WFA_PATH = BASE_DIR / "WFA-logo.webp"
