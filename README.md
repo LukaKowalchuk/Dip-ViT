@@ -24,9 +24,9 @@ developed a Streamlit-based demonstration application to illustrate potential re
 
 **Overview of Notebooks and Scripts**
 
-3 Notebooks are featured: dip_vit_updated.ipynb, is used for BioCLIP and BioCLIP-2, vit_16.ipynb is used the for the ViT/B-16, and efficientnetb0_triplet.ipynb is used for the CNN
+3 Notebooks are featured: dip_vit_updated.ipynb, is used for BioCLIP and BioCLIP-2, vit_16.ipynb is used the for the ViT/B-16, and efficientnetb0_triplet.ipynb is used for the CNN.
 
-The code can be run using Jupyter Notebook, where the cells feature discriptions of their contents, how to prepare the dataset, and how to asign directories
+The code can be run using Jupyter Notebook, where the cells feature discriptions of their contents, how to prepare the dataset, and how to asign directories.
 
 The following packages are required to run the code (also featured in the ipynb documents): 
 
@@ -45,7 +45,7 @@ unzipping the full dataset or if certain plots are not of interest.
 
 **Scripts**
 
-Some additional scripts are provided to run the experiments described in the Thesis
+Some additional scripts are provided to run the experiments described in the Thesis.
 
 These include:
 
@@ -58,7 +58,7 @@ Their classification and those of the forensic entomologist were inputted manual
 
 - heatmap_folder_creator.py
 
-This script was just to create all the heatmaps for the LabelMe mask overlay test. All this script does is create an X amount of heatmaps from a given image directory
+This script was just to create all the heatmaps for the LabelMe mask overlay test. All this script does is create an X amount of heatmaps from a given image directory.
 
 
 
