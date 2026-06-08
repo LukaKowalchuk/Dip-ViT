@@ -49,9 +49,34 @@ Some additional scripts are provided to run the experiments described in the The
 
 These include:
 
--
+- student_class_acc.py
 
--
+This script was used to determine the classification accuracy of students for labels in the database.
+Their classification and those of the forensic entomologist were inputted manually and mapped onto one another.
+
+
+
+- heatmap_folder_creator.py
+
+This script was just to create all the heatmaps for the LabelMe mask overlay test. All this script does is create an X amount of heatmaps from a given image directory
+
+
+
+- labelme_mask_demo.py
+
+This script was used to create annotations in images.
+
+
+
+- normalized_heat.py
+
+This script was used to create the results described in the attention allocation sections in the Thesis. It computes all the heatmap metrics using heatmaps and their annotated versions of images.
+
+
+- streamlit_dipvit.py
+
+This script is used to launch the StreamLit application window. To run use the following command in the terminal:
+streamlit run streamlit_dipvit.py   
 
 
 
